@@ -1,6 +1,6 @@
 # Frontend Mentor - Intro component with sign up form
 
-![127 0 0 1_5500_](https://github.com/user-attachments/assets/d3873d35-3e95-40d6-84fd-28414b58cb41)
+![127 0 0 1_5500_index html (1)](https://github.com/user-attachments/assets/e318b69a-b416-409c-be19-f7799168ed8a)
 
 ## Welcome! 👋
 
